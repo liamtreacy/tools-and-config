@@ -33,6 +33,20 @@ pbpaste
 
 `rg "some_text" | wc -l` -  count results
 
+
+## AI 
+
+`/copy` - copies last response
+
+`/share` - exports the session to a file
+
+`/search` - searches through conversations
+
+`/review` - reviews changes (can be staged, unstaged or diffs from main)
+
+
+
+
 ## TMUX
 
 tmux ls - see active tmux sessions
