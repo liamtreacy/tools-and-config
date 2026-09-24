@@ -127,6 +127,9 @@ Space - leader key
 
 ## GIT
 
+To get the most recent commit as a diff
+
+`git diff HEAD~1 HEAD > most-recent-commit.diff`
 
 To change submodule to point at branch
 
